@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.4.0",
+    "@babel/core": "^7.6.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.4.0",
     "@babel/plugin-transform-modules-commonjs": "^7.4.0",
     "@babel/register": "^7.4.0",
